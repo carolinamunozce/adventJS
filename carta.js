@@ -1,5 +1,5 @@
-
-
+//Letter to Santa Claus
+ 
  const carta = '_bici  coche balón _playstation _bici _coche _peluche pelota'
 
 function listGifts(carta) {
